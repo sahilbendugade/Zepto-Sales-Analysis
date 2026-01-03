@@ -27,12 +27,17 @@ The analysis combines Python, SQL, and Power BI to demonstrate an end-to-end dat
 🔄 Project Workflow / Steps
 
 1️⃣ Data Loading (Python)
+
     Imported CSV data using Pandas
+    
     Checked data types, shape, and basic statistics
 
 2️⃣ Exploratory Data Analysis (EDA)
+
     Analyzed price distribution, discounts, and quantities
+    
     Category-wise comparison of MRP and sales
+    
     Stock availability analysis
 
 3️⃣ Data Cleaning & Transformation
