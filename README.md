@@ -28,51 +28,75 @@ The analysis combines Python, SQL, and Power BI to demonstrate an end-to-end dat
 
 1️⃣ Data Loading (Python)
 
-    Imported CSV data using Pandas
+  Imported CSV data using Pandas
     
-    Checked data types, shape, and basic statistics
+  Checked data types, shape, and basic statistics
 
 2️⃣ Exploratory Data Analysis (EDA)
 
-    Analyzed price distribution, discounts, and quantities
+  Analyzed price distribution, discounts, and quantities
     
-    Category-wise comparison of MRP and sales
+  Category-wise comparison of MRP and sales
     
-    Stock availability analysis
+  Stock availability analysis
 
 3️⃣ Data Cleaning & Transformation
-    Converted MRP from paise to rupees
-    Handled missing values and duplicates
-    Standardized category names
-    Created derived columns (discounted price, availability flag)
+
+  Converted MRP from paise to rupees 
+  
+  Handled missing values and duplicates
+  
+  Standardized category names
+  
+  Created derived columns (discounted price, availability flag)
 
 4️⃣ SQL Analysis
-    Loaded cleaned data into SQL database
+
+  Loaded cleaned data into SQL database
     Wrote queries to:
-    Find top-selling categories
-    Identify out-of-stock products
-    Analyze average price and discount by category
-    Calculate total and average quantities
+    
+  Find top-selling categories
+    
+  Identify out-of-stock products
+    
+  Analyze average price and discount by category
+    
+  Calculate total and average quantities
+    
 
 5️⃣ Power BI Dashboard
-    Built an interactive dashboard including:
-    KPI Cards (Avg MRP, Avg Quantity, Total Quantity, Max Discount)
-    Category-wise price and quantity analysis
-    Stock availability breakdown
-    Discounted selling price comparison
-    Filters for category, price range, and stock status
+
+  Built an interactive dashboard including:
+    
+  KPI Cards (Avg MRP, Avg Quantity, Total Quantity, Max Discount)
+    
+  Category-wise price and quantity analysis
+    
+  Stock availability breakdown
+    
+  Discounted selling price comparison
+    
+  Filters for category, price range, and stock status
 
 📈 Dashboard Highlights
-    Clear KPI metrics for quick insights
-    Interactive slicers for category, price, and stock
-    Visual comparison of discounted sales by category
-    Stock availability and inventory distribution
+
+  Clear KPI metrics for quick insights
+  
+  Interactive slicers for category, price, and stock
+  
+  Visual comparison of discounted sales by category
+  
+  Stock availability and inventory distribution
 
 ✅ Key Results & Insights
-    Certain categories contribute significantly to total sales volume
-    High discounts do not always correlate with higher quantity sold
-    Multiple fast-moving categories face stock availability issues
-    Average MRP varies widely across categories, impacting revenue strategy
+
+  Certain categories contribute significantly to total sales volume
+  
+  High discounts do not always correlate with higher quantity sold
+
+  Multiple fast-moving categories face stock availability issues
+  
+  Average MRP varies widely across categories, impacting revenue strategy
 
 
 🎯 Conclusion
