@@ -9,19 +9,19 @@ The analysis combines Python, SQL, and Power BI to demonstrate an end-to-end dat
 
   Format: CSV
   Data includes:
-    Product details
-    Category
-    MRP & discounted selling price
-    Quantity sold
-    Discount %
+    Product details,
+    Category,
+    MRP & discounted selling price,
+    Quantity sold,
+    Discount %,
     Stock availability (In Stock / Out of Stock)
 
 🛠 Tools & Technologies
   
-  Python (Pandas, NumPy, Matplotlib/Seaborn)
-  SQL (PostgreSQL / MySQL / SQL Server)
-  Power BI
-  Jupyter Notebook
+  Python (Pandas, NumPy, Matplotlib/Seaborn),
+  SQL (PostgreSQL / MySQL / SQL Server),
+  Power BI,
+  Jupyter Notebook,
   Git & GitHub
 
 🔄 Project Workflow / Steps
