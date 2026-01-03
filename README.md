@@ -25,6 +25,7 @@ The analysis combines Python, SQL, and Power BI to demonstrate an end-to-end dat
   Git & GitHub
 
 🔄 Project Workflow / Steps
+
 1️⃣ Data Loading (Python)
     Imported CSV data using Pandas
     Checked data types, shape, and basic statistics
